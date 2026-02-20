@@ -22,7 +22,7 @@ UPSTREAM_BRANCH = os.getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = os.getenv("GIT_TOKEN", None)
 
 SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/ShrutiBots")
-SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/ShrutiBotsSupport")
+SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/ShrutiBotSupport")
 INSTAGRAM = os.getenv("INSTAGRAM", "https://instagram.com/yaduwanshi_nand")
 YOUTUBE = os.getenv("YOUTUBE", "https://youtube.com/@NandEditz")
 GITHUB = os.getenv("GITHUB", "https://github.com/NoxxOP")
@@ -47,17 +47,17 @@ STRING5 = os.getenv("STRING_SESSION5", None)
 AUTO_LEAVING_ASSISTANT = bool(os.getenv("AUTO_LEAVING_ASSISTANT", False))
 
 START_IMG_URL = os.getenv("START_IMG_URL", "https://files.catbox.moe/7q8bfg.jpg")
-PING_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-PLAYLIST_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/eehxb4.jpg"
-TELEGRAM_VIDEO_URL = "https://files.catbox.moe/eehxb4.jpg"
-STREAM_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-SOUNCLOUD_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
+PING_IMG_URL = "https://files.catbox.moe/br8e6c.jpg"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/7sj8n4.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/9avt4h.jpg"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/ebusab.jpg"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/y266wq.jpg"
+STREAM_IMG_URL = "https://files.catbox.moe/vbpsbj.jpg"
+SOUNCLOUD_IMG_URL = "https://files.catbox.moe/htbrxj.jpg"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/cl7rvg.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/473yqy.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/vbpsbj.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/ebusab.jpg"
 
 BANNED_USERS = filters.user()
 adminlist = {}
